@@ -15,3 +15,4 @@ document.body.addEventListener('click', function(e){
 const menu = () => {
     menuNavbar.style.display = 'inline-block'
 }
+// oh yeah
